@@ -60,4 +60,7 @@ $ git add .
 $ git status
 $ git commit -m "char"
 $ git push origin codigo
-
+creamos la rama codigo
+nos dirigimos a la rama codigo
+le añadimos los archivos a la rama
+subimos la rama al repositorio
